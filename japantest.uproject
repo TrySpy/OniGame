@@ -19,5 +19,11 @@
 			"Name": "CommonUI",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows",
+		"Linux",
+		"LinuxArm64",
+		"Mac"
 	]
 }
